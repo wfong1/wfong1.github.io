@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Wayne Fong
-banner_subtitle: Data Analyst
+banner_subtitle: Data Analyst in New York City, NY. Originally from Los Angeles, CA.
 background_image: /images/databg.jpg
 
 # all of the following variables are optional -----------------
@@ -30,7 +30,7 @@ linkedin: wayne-fong # the part after ("https://www.linkedin.com/in/...")
 
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
-portfolio: Portfolio # the heading for your portfolio and title of your YAML file
+Portfolio: Portfolio # the heading for your portfolio and title of your YAML file
 # portfolio_description: Projects from Georgia Tech MS Analytics # a description to be desplayed below the heading and above the content
 
 # optional CTA section --------------------------------------------------
@@ -44,4 +44,4 @@ portfolio: Portfolio # the heading for your portfolio and title of your YAML fil
 ---			
 [//]: # (write a bit about yourself here)
 ### Open to data analyst and data scientist positions. Currently pursuing a Masters of Science in Analytics from Georgia Tech. Previously an Optoelectronics Engineer. B.S. Electrical Engineering from Caltech.  
-Currently in New York City, NY. Originally from Los Angeles, CA.
+
