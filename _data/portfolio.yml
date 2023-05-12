@@ -2,21 +2,21 @@
 # in the root directory
 
 portfolio:
-  - category: Georgia Tech M.S. Analytics
+  - category: Projects
     items:
-      - item: example.html
+      - item: PassFlow.html
         image: /images/PassFlow.png # optionally, include the file path for an image for each item
-#      - item: example.html
+#      - item: PassFlow.html
 #        image: /images/NYC2.jpg
 #      - item: example2.html
 #        image: /images/NYC3.jpg
 #      - item: example3.html
 #        image: /images/NYC4.jpg
-  - category: Los Angeles
+  - category: Courses
     items:
-      - item: example.html
+      - item: courses.html
         image: /images/LA1.jpg
-#      - item: example.html
+#      - item: PassFlow.html
 #        image: /images/LA2.jpg
 #      - item: example2.html
 #        image: /images/LA3.jpg
