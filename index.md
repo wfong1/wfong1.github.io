@@ -43,5 +43,5 @@ portfolio_description: Georgia Tech MS Analytics # a description to be desplayed
 
 ---			
 [//]: # (write a bit about yourself here)
-### Open to data analyst and data scientist positions. Currently pursuing a Masters of Science in Analytics from Georgia Tech. Previously an Optoelectronics Engineer. B.S. Electrical Engineering from Caltech.  
+### Open to data analyst and data scientist positions.\ Currently pursuing a Masters of Science in Analytics from Georgia Tech.\ Previously an Optoelectronics Engineer.\ B.S. Electrical Engineering from Caltech.  
 

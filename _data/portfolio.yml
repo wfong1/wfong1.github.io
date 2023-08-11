@@ -9,9 +9,9 @@ portfolio:
 #      - item: PassFlow.html
 #        image: /images/NYC2.jpg
       - item: Startup.html
-        image: /images/NYC3.jpg
-#      - item: example3.html
-#        image: /images/NYC4.jpg
+        image: /images/CorPlot.png
+      - item: NBASalary.html
+        image: /images/Salary.png
   - category: Courses
     items:
       - item: courses.html
