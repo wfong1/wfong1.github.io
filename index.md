@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Wayne Fong
-banner_subtitle: Currently pursuing MS in Analytics from Georgia Tech.  Open to full-time data analyst/scientist positions in the New York City, NY and Los Angeles, CA. 
+banner_subtitle: Currently pursuing MS in Analytics from Georgia Tech. <br> Open to full-time data analyst/scientist positions in the New York City, NY and Los Angeles, CA. 
 background_image: /images/databg.jpg
 
 # all of the following variables are optional -----------------
