@@ -3,8 +3,7 @@
 # required, replace with your own information -----
 title: Wayne Fong
 author: Wayne Fong
-description: >
-  Pursuing Masters of Science in Analytics at Georgia Tech
+description: Pursuing Masters of Science in Analytics at Georgia Tech
 baseurl: "https://wfong1.github.io/"
 
 plugins:
