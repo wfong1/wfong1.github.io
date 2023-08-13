@@ -5,7 +5,8 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Wayne Fong
-banner_subtitle: Data Analyst in New York City, NY. Originally from Los Angeles, CA.
+banner_subtitle: Currently pursuing MS in Analytics from Georgia Tech. 
+Open to full-time data analyst/scientist positions in the New York City, NY and Los Angeles, CA. 
 background_image: /images/databg.jpg
 
 # all of the following variables are optional -----------------
@@ -43,5 +44,8 @@ portfolio_description: Georgia Tech MS Analytics # a description to be desplayed
 
 ---			
 [//]: # (write a bit about yourself here)
-### Open to data analyst and data scientist positions.\ Currently pursuing a Masters of Science in Analytics from Georgia Tech.\ Previously an Optoelectronics Engineer.\ B.S. Electrical Engineering from Caltech.  
+### Open to data analyst and data scientist positions. 
+### Currently pursuing a Masters of Science in Analytics from Georgia Tech.
+### Previously an Optoelectronics Engineer. 
+### B.S. Electrical Engineering from Caltech.  
 
