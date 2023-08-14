@@ -5,7 +5,11 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Wayne Fong
+<<<<<<< HEAD
 banner_subtitle: Currently pursuing MS in Analytics from Georgia Tech. <br> Open to full-time data analyst/scientist positions in New York City, NY and Los Angeles, CA. <br> Email: <a href="mailto:wfong7@gatech.edu">wfong7@gatech.edu</a> 
+=======
+banner_subtitle: Currently pursuing MS in Analytics from Georgia Tech. <br> Open to full-time data analyst/scientist positions in New York City, NY and Los Angeles, CA. <br> <a href="mailto:wfong7@gatech.edu">wfong7@gatech.edu</a>
+>>>>>>> parent of c9a9989 (add image)
 background_image: /images/databg.jpg
 
 # all of the following variables are optional -----------------
