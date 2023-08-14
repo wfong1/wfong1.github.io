@@ -6,18 +6,18 @@ work:
     items:
       - item: PassFlow.html
         image: /images/PassFlow.png # optionally, include the file path for an image for each item
-      - item: Startup.html
-        image: /images/CorPlot.png
+#      - item: Startup.html
+#        image: /images/CorPlot.png
 #      - item: example2.html
 #        image: /images/NYC3.jpg
 #      - item: example3.html
 #        image: /images/NYC4.jpg
   - category: Courses
     items:
-      - item: courses.html
-        image: /images/LA1.jpg
-      - item: CDA.html
-        image: /images/LA2.jpg
+#      - item: courses.html
+#        image: /images/LA1.jpg
+#      - item: CDA.html
+#        image: /images/LA2.jpg
 #      - item: example2.html
 #        image: /images/LA3.jpg
 #      - item: example3.html
