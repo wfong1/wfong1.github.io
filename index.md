@@ -5,25 +5,25 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Wayne Fong
-banner_subtitle: Currently pursuing a MS in Analytics from Georgia Tech. <br> Open to full-time data analyst/scientist in New York City, NY and Los Angeles,CA.
+banner_subtitle: Currently pursuing a MS in Analytics from Georgia Tech. <br> Open to full-time data analyst/scientist in New York City, NY and Los Angeles, CA. <br> Email: <a href="mailto:wfong7@gatech.edu">wfong7@gatech.edu</a>
 background_image: /images/databg.jpg
 
 # all of the following variables are optional -----------------
-page_url: /hello # only include this variable if you aren't building the page to your primary domain 
+# page_url: /hello # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
 favicon: /assets/ico/WF_favicon.ico
 
 # social media
-twitter_username: notsaragong # # your twitter handle
-github_username:  saragong # your github username
-linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
+# twitter_username: notsaragong # # your twitter handle
+github_username:  wfong1 # your github username
+linkedin: wayne-fong # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/saragong/hello # the link
-about_button_label: get hello # the label on the button
+# about_button: https://github.com/saragong/hello # the link
+# about_button_label: get hello # the label on the button
 
 # optional portfolio section ------------------------------------------
 
@@ -35,23 +35,11 @@ portfolio_description: you can include a portfolio showcasing your work and orga
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
-cta: connect # the heading for your CTA section
-cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-cta_button: mailto:saragong@usc.edu # a link to an external website or to media
-cta_button_label: contact # the label on the button
+# cta: connect # the heading for your CTA section
+# cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
+# cta_button: mailto:saragong@usc.edu # a link to an external website or to media
+# cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
-
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
-  
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
-  
-
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+### 
